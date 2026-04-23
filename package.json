@@ -1,0 +1,1 @@
+{\n  "name": "project-glxxd",\n  "version": "1.0.0",\n  "description": "Minecraft server hosting backend",\n  "main": "src/server.js",\n  "scripts": {\n    "start": "node src/server.js"\n  },\n  "dependencies": {},\n  "devDependencies": {}\n}
